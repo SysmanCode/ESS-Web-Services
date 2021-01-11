@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="GrapeVineAffiliate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">INT001-1143-016</Value>
+    </Setting>
+    <Setting Name="GrapeVineAuthentication" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EMAPPLINK</Value>
+    </Setting>
+    <Setting Name="GrapeVineUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://bms8.vine.co.za/webservice/services/ApplinkUpload</Value>
+    </Setting>
+    <Setting Name="SysmanSmsID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">729ff8a5-4e36-42e9-9ba5-2a71021a1b8e</Value>
+    </Setting>
+    <Setting Name="SysmanSmsKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MeYpxARMlldAceIfUqEAiSO4B+oVb/Gq</Value>
+    </Setting>
+    <Setting Name="ZoomConnectUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sherwyn@izaiahinvestments.co.za</Value>
+    </Setting>
+    <Setting Name="ZoomConnectToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">f6b91fce-749a-4f1c-9a29-70d58bb7b707</Value>
+    </Setting>
+    <Setting Name="ESS_Web_Services_ServiceReferencePaging_PagingService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/esswebservices/pagingservice.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
